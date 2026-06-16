@@ -1,0 +1,130 @@
+company,price,diameter,topping,variant,size,extra_sauce,extra_cheese
+1,"Rp235,000",22,chicken,double_signature,jumbo,yes,yes
+1,"Rp198,000",20,papperoni,double_signature,jumbo,yes,yes
+1,"Rp120,000",16,mushrooms,double_signature,reguler,yes,yes
+1,"Rp155,000",14,smoked beef,double_signature,reguler,yes,no
+1,"Rp248,000",18,mozzarella,double_signature,jumbo,yes,no
+1,"Rp140,000",18.5,black papper,american_favorite,jumbo,no,no
+1,"Rp110,000",16,smoked beef,american_favorite,jumbo,no,yes
+1,"Rp70,000",8,papperoni,american_favorite,reguler,no,no
+1,"Rp90,000",12,mushrooms,american_favorite,reguler,yes,no
+1,"Rp90,000",12,smoked beef,american_favorite,reguler,no,no
+1,"Rp140,000",18.5,mozzarella,super_supreme,jumbo,no,no
+1,"Rp110,000",16,black papper,super_supreme,jumbo,yes,yes
+1,"Rp70,000",8,smoked beef,super_supreme,reguler,yes,yes
+1,"Rp90,000",12,black papper,super_supreme,reguler,no,yes
+1,"Rp90,000",12,mozzarella,super_supreme,reguler,no,yes
+1,"Rp140,000",18.5,mozzarella,meat_lovers,jumbo,no,yes
+1,"Rp110,000",16,smoked beef,meat_lovers,jumbo,no,yes
+1,"Rp70,000",8,chicken,meat_lovers,reguler,yes,yes
+1,"Rp90,000",12,mushrooms,meat_lovers,reguler,yes,yes
+1,"Rp90,000",12,mozzarella,meat_lovers,reguler,yes,yes
+1,"Rp230,000",22,chicken,double_mix,jumbo,yes,yes
+1,"Rp188,000",18.5,mushrooms,double_mix,jumbo,yes,yes
+1,"Rp114,000",14,chicken,double_mix,reguler,yes,yes
+1,"Rp149,000",16.5,smoked beef,double_mix,reguler,yes,no
+1,"Rp149,000",16.5,chicken,double_mix,reguler,yes,no
+2,"Rp23,500",8.5,mozzarella,classic,small,yes,no
+2,"Rp46,000",12,chicken,classic,medium,yes,no
+2,"Rp72,000",14,smoked beef,classic,large,yes,no
+2,"Rp49,000",12,mozzarella,crunchy,medium,no,no
+2,"Rp83,000",17,chicken,new_york,XL,no,yes
+2,"Rp96,000",12,chicken,double_decker,medium,no,yes
+2,"Rp31,000",8.5,mushrooms,classic,small,yes,yes
+2,"Rp69,000",12,chicken,classic,medium,no,yes
+2,"Rp93,000",14,mushrooms,classic,large,no,yes
+2,"Rp75,000",12,mushrooms,crunchy,medium,no,yes
+2,"Rp115,000",17,mozzarella,new_york,XL,no,yes
+2,"Rp123,000",12,smoked beef,double_decker,medium,yes,yes
+2,"Rp33,000",8.5,chicken,classic,small,no,yes
+2,"Rp46,000",12,mozzarella,classic,medium,yes,yes
+2,"Rp72,000",14,chicken,classic,large,yes,yes
+2,"Rp76,000",12,chicken,crunchy,medium,no,no
+2,"Rp119,000",17,mushrooms,new_york,XL,yes,no
+2,"Rp126,500",12,smoked beef,double_decker,medium,yes,no
+2,"Rp75,000",8.5,smoked beef,classic,small,yes,yes
+2,"Rp46,000",12,mushrooms,classic,medium,yes,yes
+2,"Rp72,000",14,mozzarella,classic,large,yes,yes
+2,"Rp49,000",12,smoked beef,crunchy,medium,no,yes
+2,"Rp83,000",17,chicken,new_york,XL,no,yes
+2,"Rp96,000",12,mushrooms,double_decker,medium,no,yes
+3,"Rp39,000",8.5,tuna,spicy_tuna,small,yes,yes
+3,"Rp72,000",12,tuna,spicy_tuna,medium,yes,yes
+3,"Rp99,000",14,tuna,spicy_tuna,large,yes,yes
+3,"Rp44,000",8.5,meat,BBQ_meat_fiesta,small,yes,no
+3,"Rp78,000",12,meat,BBQ_meat_fiesta,medium,no,no
+3,"Rp105,000",14,meat,BBQ_meat_fiesta,large,yes,no
+3,"Rp39,000",8.5,sausage,BBQ_sausage,small,no,yes
+3,"Rp72,000",12,sausage,BBQ_sausage,medium,yes,yes
+3,"Rp99,000",14,sausage,BBQ_sausage,large,no,yes
+3,"Rp35,000",8.5,mushrooms,extravaganza,small,yes,yes
+3,"Rp60,000",12,onion,extravaganza,medium,yes,yes
+3,"Rp98,000",14,mozzarella,extravaganza,large,yes,yes
+3,"Rp35,000",8.5,meat,meat_eater,small,yes,yes
+3,"Rp60,000",12,meat,meat_eater,medium,yes,yes
+3,"Rp98,000",14,meat,meat_eater,large,yes,yes
+3,"Rp44,000",8.5,vegetables,gournet_greek,small,no,no
+3,"Rp78,000",12,vegetables,gournet_greek,medium,no,no
+3,"Rp105,000",14,vegetables,gournet_greek,large,no,no
+3,"Rp28,000",8.5,vegetables,italian_veggie,small,no,yes
+3,"Rp51,000",12,vegetables,italian_veggie,medium,no,yes
+3,"Rp84,000",14,vegetables,italian_veggie,large,yes,yes
+3,"Rp39,000",8.5,vegetables,thai_veggie,small,no,yes
+3,"Rp72,000",12,vegetables,thai_veggie,medium,yes,no
+3,"Rp99,000",14,vegetables,thai_veggie,large,no,no
+3,"Rp35,000",8.5,beef,american_classic,small,yes,no
+3,"Rp60,000",12,beef,american_classic,medium,yes,no
+3,"Rp98,000",14,beef,american_classic,large,yes,no
+3,"Rp32,000",8.5,tuna,neptune_tuna,small,yes,no
+3,"Rp54,000",12,tuna,neptune_tuna,medium,yes,yes
+3,"Rp92,000",14,tuna,neptune_tuna,large,yes,yes
+4,"Rp140,000",18.5,mozzarella,meat_lovers,jumbo,no,yes
+4,"Rp110,000",16,smoked beef,meat_lovers,jumbo,no,yes
+4,"Rp70,000",8,chicken,meat_lovers,reguler,yes,yes
+4,"Rp90,000",12,mushrooms,meat_lovers,reguler,yes,yes
+4,"Rp90,000",12,mozzarella,meat_lovers,reguler,yes,yes
+4,"Rp230,000",22,chicken,double_mix,jumbo,yes,yes
+4,"Rp188,000",18.5,mushrooms,double_mix,jumbo,yes,yes
+4,"Rp114,000",14,chicken,double_mix,reguler,yes,yes
+4,"Rp149,000",16.5,smoked beef,double_mix,reguler,yes,no
+4,"Rp149,000",16.5,chicken,double_mix,reguler,yes,no
+4,"Rp23,500",8.5,mozzarella,classic,small,yes,no
+4,"Rp46,000",12,chicken,classic,medium,yes,no
+4,"Rp72,000",14,smoked beef,classic,large,yes,no
+4,"Rp49,000",12,mozzarella,crunchy,medium,no,no
+4,"Rp83,000",17,chicken,new_york,XL,no,yes
+4,"Rp96,000",12,chicken,double_decker,medium,no,yes
+4,"Rp31,000",8.5,mushrooms,classic,small,yes,yes
+4,"Rp69,000",12,chicken,classic,medium,no,yes
+4,"Rp93,000",14,mushrooms,classic,large,no,yes
+4,"Rp75,000",12,mushrooms,crunchy,medium,no,yes
+5,"Rp115,000",17,mozzarella,new_york,XL,no,yes
+5,"Rp23,500",8.5,mozzarella,classic,small,yes,no
+5,"Rp46,000",12,chicken,classic,medium,yes,no
+5,"Rp72,000",14,smoked beef,classic,large,yes,no
+5,"Rp49,000",12,mozzarella,crunchy,medium,no,no
+5,"Rp83,000",17,chicken,new_york,XL,no,yes
+5,"Rp96,000",12,chicken,double_decker,medium,no,yes
+5,"Rp31,000",8.5,mushrooms,classic,small,yes,yes
+5,"Rp69,000",12,chicken,classic,medium,no,yes
+5,"Rp93,000",14,mushrooms,classic,large,no,yes
+5,"Rp75,000",12,mushrooms,crunchy,medium,no,yes
+5,"Rp115,000",17,mozzarella,new_york,XL,no,yes
+5,"Rp123,000",12,smoked beef,double_decker,medium,yes,yes
+5,"Rp33,000",8.5,chicken,classic,small,no,yes
+5,"Rp46,000",12,mozzarella,classic,medium,yes,yes
+5,"Rp72,000",14,chicken,classic,large,yes,yes
+5,"Rp76,000",12,chicken,crunchy,medium,no,no
+5,"Rp119,000",17,mushrooms,new_york,XL,yes,no
+5,"Rp126,500",12,smoked beef,double_decker,medium,yes,no
+5,"Rp75,000",8.5,smoked beef,classic,small,yes,yes
+5,"Rp46,000",12,mushrooms,classic,medium,yes,yes
+5,"Rp72,000",14,mozzarella,classic,large,yes,yes
+5,"Rp49,000",12,smoked beef,crunchy,medium,no,yes
+5,"Rp83,000",17,chicken,new_york,XL,no,yes
+5,"Rp96,000",12,mushrooms,double_decker,medium,no,yes
+5,"Rp39,000",8.5,tuna,spicy tuna,small,yes,yes
+5,"Rp72,000",12,tuna,spicy tuna,medium,yes,yes
+5,"Rp99,000",14,tuna,spicy tuna,large,yes,yes
+5,"Rp44,000",8.5,meat,BBQ_meat_fiesta,small,yes,no
+5,"Rp78,000",12,meat,BBQ_meat_fiesta,medium,no,no
